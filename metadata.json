@@ -1,0 +1,6 @@
+{
+  "name": "FoodRush - Food Delivery & Restaurant Directory",
+  "description": "Modern food delivery platform and restaurant directory for Greater Noida and Delhi NCR featuring live GPS location, authentic restaurants, smart search suggestions, and real-time tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
